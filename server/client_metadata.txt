@@ -1,0 +1,12 @@
+
+1728479110890 :  URL: /about?myname=Po+Gee&userID=1  Method: GET Host: localhost:8000
+username-localhost-8888="2|1:0|10:1728209939|23:username-localhost-8888|44:NGE1NjM5NjRlNzMyNDdjMDg3MmQyNjkxZWQ3ZmVkZDE=|8308a51e72e3bd264daef6400d58ec571d828d69e8fd6f43808d072d4d67d9be"; _xsrf=2|7c825609|618bf2873b3be7d4b1d91d70a4dccc25|1728209939
+
+1728479110947 :  URL: /favicon.ico  Method: GET Host: localhost:8000
+username-localhost-8888="2|1:0|10:1728209939|23:username-localhost-8888|44:NGE1NjM5NjRlNzMyNDdjMDg3MmQyNjkxZWQ3ZmVkZDE=|8308a51e72e3bd264daef6400d58ec571d828d69e8fd6f43808d072d4d67d9be"; _xsrf=2|7c825609|618bf2873b3be7d4b1d91d70a4dccc25|1728209939
+
+1728479135542 :  URL: /  Method: GET Host: localhost:8000
+username-localhost-8888="2|1:0|10:1728209939|23:username-localhost-8888|44:NGE1NjM5NjRlNzMyNDdjMDg3MmQyNjkxZWQ3ZmVkZDE=|8308a51e72e3bd264daef6400d58ec571d828d69e8fd6f43808d072d4d67d9be"; _xsrf=2|7c825609|618bf2873b3be7d4b1d91d70a4dccc25|1728209939
+
+1728479135598 :  URL: /favicon.ico  Method: GET Host: localhost:8000
+username-localhost-8888="2|1:0|10:1728209939|23:username-localhost-8888|44:NGE1NjM5NjRlNzMyNDdjMDg3MmQyNjkxZWQ3ZmVkZDE=|8308a51e72e3bd264daef6400d58ec571d828d69e8fd6f43808d072d4d67d9be"; _xsrf=2|7c825609|618bf2873b3be7d4b1d91d70a4dccc25|1728209939
